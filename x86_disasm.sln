@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "x86_disasm", "x86_disasm\x86_disasm.vcxproj", "{D5669633-0B35-40E1-B632-652C167AA5F7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_binary", "test_binary\test_binary.vcxproj", "{BA4B2B61-19C9-4D3C-AF68-4DAE94164FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5669633-0B35-40E1-B632-652C167AA5F7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D5669633-0B35-40E1-B632-652C167AA5F7}.Debug|Win32.Build.0 = Debug|Win32
+		{D5669633-0B35-40E1-B632-652C167AA5F7}.Release|Win32.ActiveCfg = Release|Win32
+		{D5669633-0B35-40E1-B632-652C167AA5F7}.Release|Win32.Build.0 = Release|Win32
+		{BA4B2B61-19C9-4D3C-AF68-4DAE94164FFE}.Debug|Win32.ActiveCfg = Release|Win32
+		{BA4B2B61-19C9-4D3C-AF68-4DAE94164FFE}.Debug|Win32.Build.0 = Release|Win32
+		{BA4B2B61-19C9-4D3C-AF68-4DAE94164FFE}.Release|Win32.ActiveCfg = Release|Win32
+		{BA4B2B61-19C9-4D3C-AF68-4DAE94164FFE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
